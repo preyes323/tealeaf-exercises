@@ -1,0 +1,8 @@
+5.
+For the first program, x = 3
+For the second program, an error is thrown. x is outside the scope during puts
+or wasn't declared
+
+6.
+There is a variable or method that was called that is not part of current scope
+or was not defined.

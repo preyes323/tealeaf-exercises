@@ -1,0 +1,3 @@
+The error messages suggest that a wrong closing brace was
+used. It should have a been a 'curly brace' instead it was
+a parenthesis.

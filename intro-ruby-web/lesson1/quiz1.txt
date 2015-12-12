@@ -1,0 +1,8 @@
+1. 1
+2. their keys, order
+3. [1, 2, 3]; [1, 2, 3]
+4. map mutates the array. select filters the content without mutating
+5. use the 'hash-rocket =>'
+6. no way!
+7. 4
+8. error
